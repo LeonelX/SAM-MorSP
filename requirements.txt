@@ -1,0 +1,13 @@
+albumentations==1.4.22
+numpy==1.26.4
+omegaconf==2.3.0
+onnxruntime==1.20.1
+opencv-python==4.10.0.84
+pandas==2.2.2
+safetensors==0.4.5
+segment-anything==1.0
+torch==2.1.0
+torchvision==0.16.0
+torchaudio==2.1.0
+tqdm==4.66.4
+
